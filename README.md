@@ -16,7 +16,7 @@
 
 ### Skills
 - **REST API** - mastering
-- **Web scraping**
+- **Web scraping** - mastering
 - **Database Management**
 - **Data Analysis** - learning
 - **UX/UI Design** - basics
